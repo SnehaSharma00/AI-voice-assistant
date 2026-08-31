@@ -1,1 +1,0 @@
-//this is python frontend for voice ai project
